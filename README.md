@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I’m currently working on deployment 
-- 🐍 I’m currently learning Python e PHP
+- 🐍 I’m currently learning Python and PHP
 - 🤔 I'm looking for help with logic programming
 - 📫 How to reach me: brunoluiz.gn@gmail.com
 - 😄 Pronouns: Bore
