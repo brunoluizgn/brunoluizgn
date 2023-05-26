@@ -4,7 +4,7 @@
 - 🐍 I’m currently learning Python and PHP
 - 🤔 I'm looking for help with logic programming
 - 📫 How to reach me: brunoluiz.gn@gmail.com
-- 😄 Pronouns: Bore
+- 😄 Pronouns: HE
 - 🎧 positive mental attitude
 
 <!--
