@@ -6,4 +6,3 @@
 - 📫 How to reach me: brunoluiz.gn@gmail.com
 - 😄 Pronouns: HE/HIM
 - 🎧 positive mental attitude
--
