@@ -10,4 +10,3 @@
 Languages and Tools:
 css3, cypress, git, html5, javascript, linux, mysql, postman ...
 
-:javascript: JavaScript; :z_node: Node.js; :html:HTML; :css: CSS;
