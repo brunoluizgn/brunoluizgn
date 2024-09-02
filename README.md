@@ -1,4 +1,4 @@
-### Hi there 👋 I'm quality assurance (QA) and programmer, from Brazil
+## Hi there 👋 I'm quality assurance (QA) and programmer, from Brazil
 
 
 - 💻 I’m currently working on deployment Analyst 
@@ -8,5 +8,5 @@
 - 🎧 positive mental attitude
 
 Languages and Tools:
-css3, cypress, git, html5, javascript, linux, mysql, postman ...
+>css3, cypress, git, html5, javascript, linux, mysql, postman, jira
 
